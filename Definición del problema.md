@@ -20,5 +20,10 @@ A las personas a veces se les olvida pagar sus deudas, y actualmente no existe a
 	- porque no existe un método útil y eficientes de realizar recordatorios
 
 
-Los usuarios de WhatsApp que realizan préstamos
+Los usuarios de WhatsApp que mantienen relaciones sociales y realizan préstamos de dinero informales necesitan una manera de gestionar y recordar los cobros de forma neutral y eficiente, debido a que actualmente no existe una herramienta integrada en la aplicación, lo que provoca que el prestamista sienta vergüenza al cobrar y que al deudor se le olvide pagar, resultando en conflictos interpersonales y pérdidas económicas
 
+## Objetivos
+
+- Entender por qué a las personas les da pena pedir dinero prestado y cómo la tecnología puede ayudar a resolver este problema.
+- Crear una funcionalidad nativa en WhatsApp que permita notificar deudas automáticamente y realizar transferencias de forma fácil y eficiente
+- Reducir conflictos y malentendidos en situaciones incómodas donde se debe dinero. 
