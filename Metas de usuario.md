@@ -34,3 +34,7 @@ Historia de usuario: Yo Divas, como un usuario que cuida sus finanzas personales
 • **¿Qué necesita hacer?** Necesita recuperar su dinero de forma diplomática para cubrir sus propios gastos, sin generar un conflicto social ni sentir la vergüenza de tener que pedir algo que es suyo.
 
 ![[mapa-empatia.png]]
+
+## Persona 
+
+![[persona.png]]
