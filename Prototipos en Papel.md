@@ -6,7 +6,7 @@ carnet: "241263"
 
 # Página principal
 
-![[prototipo-page1.jpg]]
+![](prototipo-page1.jpg)
 
 - Una breve descripción de cómo esperan que el usuario interactúe con su pantalla.
 - ¿Qué pasa si su usuario no sigue el camino perfecto?
@@ -17,7 +17,6 @@ carnet: "241263"
 ---
 # Página Deudas y Cobros
 
-![[prototipo-page2.jpg]]
 
 ![](prototipo-page2.jpg)
 
@@ -31,7 +30,7 @@ carnet: "241263"
 
 # Página Pagos y Cobros
 
-![[prototipo-page3.jpg]]
+![](prototipo-page3.jpg)
 
 - Una breve descripción de cómo esperan que el usuario interactúe con su pantalla.
 - ¿Qué pasa si su usuario no sigue el camino perfecto?
@@ -43,7 +42,7 @@ carnet: "241263"
 
 # Página Deudas y Cobros pagado
 
-![[prototipo-page4.jpg]]
+![](prototipo-page4.jpg)
 
 
 - Una breve descripción de cómo esperan que el usuario interactúe con su pantalla.
@@ -56,7 +55,7 @@ carnet: "241263"
 
 # Página Pagos y Cobros de un pago hecho 
 
-![[prototipo-page5.jpg]]
+![](prototipo-page5.jpg)
 
 - Una breve descripción de cómo esperan que el usuario interactúe con su pantalla.
 - ¿Qué pasa si su usuario no sigue el camino perfecto?
