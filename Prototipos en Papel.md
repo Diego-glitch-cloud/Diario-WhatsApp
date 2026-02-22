@@ -19,6 +19,8 @@ carnet: "241263"
 
 ![[prototipo-page2.jpg]]
 
+![](prototipo-page2.jpg)
+
 - Una breve descripción de cómo esperan que el usuario interactúe con su pantalla.
 - ¿Qué pasa si su usuario no sigue el camino perfecto?
 - ¿Qué manera de pensar podría llevar a su usuario a seguir un camino distinto?
