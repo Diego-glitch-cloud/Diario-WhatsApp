@@ -81,3 +81,8 @@ El usuario puede ver el cambio en el estado de la deuda y como ahora está pagad
 - ¿Qué posibles cambios de estado podrían ocurrir en sus pantallas?
 	- cuando se presiona la transacción, se muestran los detalles, luego se ocultan cuando se sale de los detalles. y al presionar print se imprime un recibo en pdf. 
 
+---
+# Escenarios para pruebas con prototipos
+
+
+**Escenario 1:** Saliste a cenar con un amigo y pagaste la cuenta completa porque él olvidó su billetera. Ya pasaron un par de días, necesitas ese dinero para tus propios gastos universitarios, pero te da mucha vergüenza escribirle un mensaje directo para cobrarle. Para evitar la incomodidad y no afectar la amistad, decides utilizar la nueva función de WhatsApp para enviarle un recordatorio de pago neutral.
