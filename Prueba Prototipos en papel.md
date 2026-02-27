@@ -27,3 +27,4 @@ carnet: "241263"
 ## Aprendizajes
 
 La sesión de pruebas confirmó que la idea principal es efectiva, simple y fácil de usar. El rediseño logró resolver exitosamente la necesidad emocional planteada en la investigación, que era cobrar sin sentir vergüenza ni afectar la amistad. Sin embargo, identifiqué la necesidad de hacer ajustes menores en la descubribilidad de la función, por recomendación del usuario. Como ajuste mayor para iteraciones futuras, será necesario diseñar un estado o pantalla adicional que permita ver cobros y deudas por separado.
+
