@@ -20,3 +20,4 @@ https://www.figma.com/proto/oZzGAqWwhvTFrlvsFDGC8w/whats-app-ios-11-ramnan?node-
 
 Tuviste una cena con tus amigos el viernes, y todos se dividieron la cuenta, así que a todos les toca pagar 50. A ti se te había olvidado depositar ese dinero, por lo que te llega una notificación a tu bandeja de entrada de Whatsapp.
 
+ 
