@@ -52,3 +52,16 @@ Para adultos mayores no creo que sea tan fácil; pensándolo para mi abuela, no 
 **5. ¿Qué cambios harías, si tuvieras alguno?** 
 
 Tal vez solo eso, que se mantenga en rojo lo que debo con un circulito en rojo.
+
+
+---
+
+# Resumen de feedback y cambios en el prototipo
+
+### Resumen del feedback recibido
+
+Durante la sesión de prueba, el usuario evaluó la facilidad de uso del prototipo con un 4 sobre 5. En general, la retroalimentación fue positiva, destacando que la herramienta resulta sumamente útil para la vida diaria al permitir mantener las cuentas claras en situaciones sociales, como dividir los gastos de una cena. No obstante, el usuario también observó que la interfaz se percibe diseñada específicamente para un público joven, señalando que los adultos mayores podrían tener dificultades para entender y utilizar el flujo de cobros.
+
+### Decisiones de diseño y alcance del proyecto 
+
+En cuanto a las iteraciones del prototipo, el entrevistado sugirió que el círculo rojo debería mantenerse siempre visible en la foto de perfil de todos los contactos a los que se les debe dinero hasta saldar la deuda. Consideré realizar este cambio; sin embargo, he decidido no aplicarlo, ya que siento que esa función de recordatorio ya la cumple de manera efectiva el texto de la interfaz que marca el estado de la transacción como "pendiente" o "realizado". Por otro lado, un cambio que considero importante pero que dejaré fuera por cuestiones del alcance actual del proyecto es la optimización de la accesibilidad; en un futuro sería ideal rediseñar ciertos elementos para que la funcionalidad sea más intuitiva y amigable para los usuarios de la tercera edad.
